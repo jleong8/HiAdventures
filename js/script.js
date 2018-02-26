@@ -3,3 +3,5 @@ $('.rating')
   initialRating: 1,
   maxRating: 5
 });
+
+$('#example').tooltip(options)
