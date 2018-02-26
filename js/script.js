@@ -5,3 +5,5 @@ $('.rating')
 });
 
 $('#example').tooltip(options)
+
+$('#myModal').modal('show')
